@@ -10,7 +10,7 @@ Before installing ROS, we need to make a Virtual machine
 
   3- Download Ubuntu 20.04.4 from link: https://releases.ubuntu.com/20.04/
 
-  4- Right click on the Ubuntu Virtual machine you created then Settings -> Storage -> Controller IDE -> Empty -> then click the disk icon on the right -> Choose a disk file -> navigate to where the __Ubuntu 20.04.4 ISO__ file was downloaded and choose it. 
+  4- Right click on the Ubuntu Virtual machine you created then Settings then Storage then Controller IDE then Empty then click the disk icon on the right then     Choose a disk file, navigate to where the __Ubuntu 20.04.4 ISO__ file was downloaded and choose it. 
 
 
  Ubuntu has been sucessfully installed.  
