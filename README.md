@@ -48,8 +48,7 @@ Before installing ROS, we need to make a Virtual machine
  
  # FOR JETSON-NANO: 
  
-  Jetson-Nano comes with Ubuntu installed. this guide will cover the installation of ROS1 on the Jetson-Nano. A link will be pasted at the end of this thread that will take you to an excellent guide by Q-Engineering that covers that very topic.
-
+  Jetson-Nano comes with Ubuntu installed. this guide will cover the installation of ROS1 on the Jetson-Nano. 
 
 
   ## ROS1 Installation Steps:
